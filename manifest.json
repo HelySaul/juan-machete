@@ -1,0 +1,8 @@
+{
+  "name": "Juan Machete",
+  "short_name": "Machete",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
